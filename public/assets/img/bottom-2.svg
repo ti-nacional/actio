@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="173px" height="90px" viewBox="0 0 173 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Oval + Oval Copy Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24.364969,21.9241673 L297.367603,21.9657559 L222.76247,310.711348 C213.190984,227.954206 175.6806,175.027475 110.23132,151.931155 C44.7820392,128.834835 16.1599222,85.4991725 24.364969,21.9241673 Z" id="path-1"></path>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.0-Mobile-Landing" transform="translate(0.000000, -470.000000)">
+            <g id="Background" transform="translate(0.000000, 95.000000)">
+                <g id="Oval-+-Oval-Copy-Mask" transform="translate(-120.000000, 253.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#7B7DFF" opacity="0.103367004" transform="translate(160.180758, 166.317758) rotate(170.000000) translate(-160.180758, -166.317758) " xlink:href="#path-1"></use>
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="0.5" opacity="0.196637835" mask="url(#mask-2)" transform="translate(188.999056, 42.222636) rotate(170.000000) translate(-188.999056, -42.222636) " cx="188.999056" cy="42.222636" rx="159.429275" ry="190.196008"></ellipse>
+                    <ellipse id="Oval-Copy" stroke="#FFFFFF" stroke-width="0.5" opacity="0.196637835" mask="url(#mask-2)" transform="translate(66.508558, 161.175673) rotate(170.000000) translate(-66.508558, -161.175673) " cx="66.5085577" cy="161.175673" rx="177.025148" ry="211.506485"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

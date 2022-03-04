@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="200px" viewBox="0 0 60 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Path 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M193.22963,29.3893207 C217.690196,48.7702745 238.779171,76.709769 234.085386,102.054093 C229.391602,127.453634 198.981168,150.258004 160.439249,169.970256 C121.89733,189.682508 75.2239254,206.302642 44.3507243,194.320685 C13.4775231,182.338728 -1.59547443,141.809896 0.453924359,109.397873 C2.43721351,76.985851 21.4767894,52.6906383 43.0946411,33.8618485 C64.6463832,15.0330587 88.7764013,1.61547535 114.823599,0.400714713 C140.804687,-0.869262313 168.702954,9.9531506 193.22963,29.3893207 Z" id="path-1"></path>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.0-Mobile-Landing" transform="translate(-315.000000, -163.000000)">
+            <g id="Background" transform="translate(0.000000, 95.000000)">
+                <g id="Path-11" transform="translate(278.000000, 12.000000)">
+                    <g id="Mask" transform="translate(136.527607, 146.377621) scale(-1, 1) rotate(68.000000) translate(-136.527607, -146.377621) translate(19.027607, 46.877621)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use fill="#16289B" fill-rule="nonzero" opacity="0.25" xlink:href="#path-1"></use>
+                        <ellipse id="Oval-Copy-10" stroke="#2D41C8" stroke-width="1.5" opacity="0.50827753" stroke-linecap="round" mask="url(#mask-2)" cx="50.4771327" cy="57.2271884" rx="79.7095001" ry="77.5679156"></ellipse>
+                        <ellipse id="Oval-Copy-5" stroke="#3951EA" stroke-width="1.5" opacity="0.50827753" stroke-linecap="round" mask="url(#mask-2)" cx="120.886425" cy="113.413687" rx="92.5" ry="90"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

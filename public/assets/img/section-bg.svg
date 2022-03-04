@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3038px" height="922px" viewBox="0 0 3038 922" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="55.633%" y1="52.3658361%" x2="38.103%" y2="48.2886257%" id="linearGradient-1">
+            <stop stop-color="#EDF1F4" offset="0%"></stop>
+            <stop stop-color="#EDF1F4" stop-opacity="0.451" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="DC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-3462.000000, -2646.000000)" fill="url(#linearGradient-1)">
+            <g id="path-10" transform="translate(3462.000000, 2646.000000)">
+                <path d="M0,206.930233 C179.879136,151.606587 306.964583,67.5148741 544.308333,36.9221968 C809.340209,2.76062884 1093.10489,27.6989303 1319.63125,67.5148741 C1493.68333,98.1075515 1799.39203,131.837874 1980,102 C2136.73595,76.1059733 2323.27237,6.39766018e-15 2477.86875,0 C2810.60766,0 2857.57115,95.2214499 3038,162.327944 L2998.16506,795.648461 C2839.73003,764.830295 2784.76474,739.34281 2679.48554,738.881827 C2606.48085,738.562164 2517.85711,726.908253 2448.67721,738.881827 C2274.10644,769.096326 2146.62548,887.039816 1854.54499,908.402586 C1451.83066,937.858288 1281.23661,814.70746 748.662553,795.648461 C495.957916,786.605941 190.402431,884.285625 0,922 L0,206.930233 Z" id="Path" transform="translate(1519.000000, 461.000000) scale(-1, -1) translate(-1519.000000, -461.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

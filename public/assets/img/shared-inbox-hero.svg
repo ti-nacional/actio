@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="706px" viewBox="0 0 1440 706" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Path 20</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="6.06930917%" y1="42.1247782%" x2="100%" y2="62.018615%" id="linearGradient-1">
+            <stop stop-color="#7045AF" offset="0%"></stop>
+            <stop stop-color="#3E26B1" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0 0 1440 0 1440 706 0 706"></polygon>
+        <linearGradient x1="-18.2371964%" y1="60.9617683%" x2="68.8543011%" y2="41.8365058%" id="linearGradient-4">
+            <stop stop-color="#7678FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-18.2371964%" y1="60.9666557%" x2="68.8543011%" y2="41.832866%" id="linearGradient-5">
+            <stop stop-color="#7678FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="63.0120563%" y1="40.7630556%" x2="4.25157977%" y2="51.219027%" id="linearGradient-6">
+            <stop stop-color="#7678FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="63.0120563%" y1="40.7505594%" x2="4.25157977%" y2="51.2206762%" id="linearGradient-7">
+            <stop stop-color="#7678FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Path-20" transform="translate(720.000000, 353.000000) scale(-1, 1) translate(-720.000000, -353.000000) ">
+            <g id="Rectangle-5">
+                <g id="Group-43">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#linearGradient-1)" fill-rule="nonzero" xlink:href="#path-2"></use>
+                    <polygon id="Path-23" fill="url(#linearGradient-4)" fill-rule="nonzero" opacity="0.146875" mask="url(#mask-3)" transform="translate(903.031137, 251.422656) scale(-1, 1) translate(-903.031137, -251.422656) " points="366.062274 7.08741774e-15 366.062274 502.845313 1440 0"></polygon>
+                    <polygon id="Path-23" fill="url(#linearGradient-5)" fill-rule="nonzero" opacity="0.146875" mask="url(#mask-3)" transform="translate(1179.500000, 122.000000) scale(-1, 1) translate(-1179.500000, -122.000000) " points="919 3.43908929e-15 919 244 1440 0"></polygon>
+                    <polygon id="Path-23" fill="url(#linearGradient-6)" fill-rule="nonzero" opacity="0.146875" mask="url(#mask-3)" transform="translate(659.000000, 522.500000) scale(1, -1) translate(-659.000000, -522.500000) " points="267 339 267 706 1051 339"></polygon>
+                    <polygon id="Path-23" fill="url(#linearGradient-7)" fill-rule="nonzero" opacity="0.146875" mask="url(#mask-3)" transform="translate(341.500000, 543.500000) scale(1, -1) translate(-341.500000, -543.500000) " points="1 384 1 703 682 384"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

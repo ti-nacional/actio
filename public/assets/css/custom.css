@@ -1,0 +1,285 @@
+.text-theme-blue {
+    color: #0883A0;
+}
+
+.border-bottom-gradient {
+    border-bottom: 5px solid;
+    border-image: linear-gradient(to left, #41AF7E, #0883A0) 1 !important;
+}
+
+.mt-n-5 {
+    margin-top: -10em;
+}
+
+.icon {
+    min-width:60px;
+    min-height:60px;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.color-bg-icon {
+    background-color: #0883A0;
+}
+
+.icon-rotine:before {
+    content: url('../img/lp/icons/rotine_ico.svg')
+}
+
+.icon-persons:before {
+    content: url('../img/lp/icons/persons_ico.svg')
+}
+
+.icon-phone:before {
+    content: url('../img/lp/icons/phone_ico.svg')
+}
+
+.icon-calendar:before {
+    content: url('../img/lp/icons/calendar_ico.svg')
+}
+.icon-rating:before {
+    content: url('../img/lp/icons/rating_ico.svg')
+}
+.icon-graphic:before {
+    content: url('../img/lp/icons/graphic_ico.svg')
+}
+
+#features {
+    background: url('../img/lp/bg-about.png') no-repeat center center / cover;
+}
+
+#screenshots {
+    background: url('../img/lp/bg-app.png') no-repeat center right / cover;
+}
+
+.background-video-section {
+    background: linear-gradient(to left, #41AF7E, #0883A0) !important;;
+}
+
+.solid-white-btn {
+    color: #0883A0;
+}
+
+.pricing-tab.feature-tab li a.nav-link.active {
+    background: #41AF7E;
+    color: #ffffff;
+    border-color: #41AF7E;
+}
+
+.pricing-tab.feature-tab li a.nav-link {
+    border-color: #41AF7E;
+}
+
+.single-pricing-pack:hover {
+    border-color: #41AF7E;
+}
+
+.popular-price {
+    background: #41AF7E;
+    color: #ffffff;
+    border-color: #41AF7E !important;
+}
+
+.popular-price .pricing-feature-list, .popular-price h5 {
+    color: #ffffff;
+}
+
+#faq {
+    background: linear-gradient(to left, #41AF7E, #0883A0);
+}
+
+#faq .section-heading h2, #faq .section-heading p {
+    color: #ffffff;
+}
+
+#faq .accordion .card {
+    background-color: transparent;
+}
+
+#faq .accordion .card .card-header, #faq .accordion .card .card-body p  {
+    color: #ffffff;
+}
+
+.form-control:focus {
+    border-color: #0883A0;
+}
+
+.form-control {
+    color: #0883A0 !important;
+    border-radius: 1rem;
+    box-shadow: inset 0 .2em .2em #ccc;
+}
+.contact-us-div {
+    border-radius: 1rem;
+    box-shadow: inset 0 .8em 1em #ccc;
+}
+
+#btnContactUs {
+    background-color: #0883A0;
+    color: #ffffff;
+    opacity: 1;
+}
+
+#btnContactUs:hover {
+    background-color: #ffffff;
+    color: #0883A0;
+    opacity: 1;
+    border: 1px solid #0883A0;
+}
+
+#contact hr {
+    border-color: #0883A0;
+}
+
+.bg-theme-blue {
+    background-color: #0883A0;
+    border-radius: 1rem;
+}
+
+.contact-download-app {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+.contact-download-app p {
+    color: #707070;
+    margin: 0;
+}
+
+.scroll-top {
+    background-image: linear-gradient(to bottom, #41AF7E, #0883A0);
+}
+
+#contact {
+    background: url('../img/lp/bg-contact.png') no-repeat top right / cover;
+}
+
+.dot-indicator.owl-theme button.owl-dot.active span {
+    background-color: #0883A0;
+}
+
+footer .menu li a {
+    color: #000;
+}
+
+.text-dark {
+    color: #3B5266 !important;
+}
+
+.footer-bottom::after {
+    content: '';
+    position: absolute;
+    background: #0883A0;
+    width: 30%;
+    height: 3px;
+    left: 35%;
+    margin-top: -30px;
+}
+
+
+#startNow {
+    background-image: linear-gradient(to left, #41AF7E, #0883A0);
+}
+
+.card-start-now {
+    padding: 1rem;
+    border-radius: 1rem;
+    min-height: 750px;
+}
+
+.card-start-now .card-body {
+    display:flex;
+    align-items: end;
+}
+
+.card-start-now .card-body button {
+    max-height: 100px;
+}
+
+.list-styled {
+    list-style: disc;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.text-indent {
+    text-indent: 50px;
+}
+
+b {
+    font-weight: bold;
+}
+
+#hero-terms {
+    background: url('/assets/img/lp/bg-terms.png') no-repeat center -50px / cover;
+}
+
+@media (min-width: 2560px) {
+    #hero-terms {
+        background: url('/assets/img/lp/bg-terms.png') no-repeat center bottom / cover;
+    }
+}
+
+.modal-backdrop.show {
+    display: none;
+}
+
+.modal-dialog {
+    position:fixed;
+    top:auto;
+    right:0;
+    left:0;
+    bottom:0;
+    width: 100%;
+    max-width: 80%;
+    padding: .5rem 1rem;
+    border-radius: 3rem;
+    border: none;
+    background: transparent;
+    background-image: linear-gradient(to left, rgba(60, 165, 118, 0.9), rgba(8, 131, 160, .9));
+
+}
+
+.modal-content {
+    border: none !important;
+    background: transparent;
+}
+
+.btn-modal-acc {
+    background: #fff;
+    color: #0883A0;
+    padding: .5rem 1rem;
+    border-radius: 1.5rem;
+}
+
+.btn-modal-acc:hover{
+    background: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.btn-modal-neg {
+    background: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 1.5rem;
+    padding: .5rem 1rem;
+}
+
+.btn-modal-neg:hover{
+    background: #fff;
+    color: #0883A0;
+}
+
+.fs-33 {
+    font-size: 33px;
+}
+
+.store-btn {
+    border-radius: .3rem;
+    padding: .5rem 1rem;
+}
